@@ -290,6 +290,6 @@ there is no issue with parameter settings during deployment as stakeLimit is in 
 
 The Lombard team has invested time in writing good documentation to describe the intended behaviour of the project and provide clear examples of how one can interact with the contracts. However, there are some areas that could benefit from additional details for advanced users, such as the Chainlink CCIP integration with CLAdapter. Although these types of diagrams are never fully complete, the attached image attempts to improve the documentation by providing a contract interaction flow. It is also advised to add additional documentation explaining the off-chain part of the code, including the process of sending transactions and integrating with the Chainlink CCIP system.
 
-<img src="diagrams/lombard.png" alt="Lombard Contract Interaction Flow" width="1000" />
+<img src="diagrams/lombard.png" alt="Lombard Contract Interaction Flow" width="1200" />
 
 
